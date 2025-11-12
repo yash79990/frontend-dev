@@ -33,7 +33,7 @@ switch (randomOperator) {
     console.log("Invalid operator");
 }
 
-// Display question and correct answer
+
 console.log("🧮 Random Math Quiz");
 console.log(`Question: ${num1} ${randomOperator} ${num2} = ?`);
 console.log(`Correct Answer: ${correctAnswer}`);
