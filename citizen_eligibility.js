@@ -1,10 +1,8 @@
-// Q10. Citizen Eligibility Validator
 
-// Input values
-let age = 19;            // You can change this value to test
-let isCitizen = true;    // true = citizen, false = non-citizen
+let age = 19;           
+let isCitizen = true;    
 
-// Eligibility check using nested if-else and logical operators
+
 if (age >= 18) {
   if (isCitizen) {
     if (age >= 21) {
