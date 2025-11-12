@@ -1,11 +1,11 @@
 
-let userName = "Jai";                 // String
-let userAge = 21;                     // Number
-let isVerified = true;                // Boolean
-let hobbies = ["coding", "music", "travel"]; // Array
-let userProfile = { city: "Mathura", country: "India" }; // Object
-let lastLogin = null;                 // Null
-let accountStatus;                    // Undefined (not assigned)
+let userName = "Jai";                 
+let userAge = 21;                     
+let isVerified = true;                
+let hobbies = ["coding", "music", "travel"]; 
+let userProfile = { city: "Mathura", country: "India" }; 
+let lastLogin = null;                 
+let accountStatus;                    
 
 
 let dataSummary = [
